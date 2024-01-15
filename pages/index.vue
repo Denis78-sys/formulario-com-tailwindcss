@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>TailwindCSS</h1>
+        <h1 class="text-3xl text-white">TailwindCSS</h1>
     </div>
 </template>
 
