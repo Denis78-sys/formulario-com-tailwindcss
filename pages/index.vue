@@ -1,7 +1,5 @@
 <template>
-    <div>
-        <h1 class="text-3xl text-white">TailwindCSS</h1>
-    </div>
+    <Imagem />
 </template>
 
 <script>
