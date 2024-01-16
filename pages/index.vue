@@ -1,5 +1,5 @@
 <template>
-    <Imagem />
+    <Formulario />
 </template>
 
 <script>

@@ -1,7 +1,8 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <template>
-    <div class="imagem">
-       <img class="rounded-2xl w-full" src="@/assets/imagens/image.svg" alt="Foto">
+    <div class="formulario bg-gray-300 w-full">
+        <BemVindo />
+        
     </div>
 </template>
 
