@@ -4,7 +4,7 @@
     <BemVindo />
     <p class="text-white text-gray-400 lg:text-xs sm:text-xs mb-4">
       O DM System fornece os blocos e componentes necessários para criar um
-      ambiente verdadeiramente site profissional.
+      ambiente verdadeiramente profissional.
     </p>
     <button
       class="flex gap-4 justify-center items-center text-white text-xs bg-gray-600 p-2 w-full mb-12 mt-9 rounded-2xl"
