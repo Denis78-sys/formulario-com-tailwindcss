@@ -33,7 +33,7 @@
       </div>
       <div class="flex gap-2">
         <input type="checkbox" class="bg-inherit" name="Mantenha conectado" />
-        <label class="text-gray-600 text-xs">Lembre-me</label>
+        <label class="text-gray-600 text-xs">Lembrar</label>
       </div>
       <div>
         <button

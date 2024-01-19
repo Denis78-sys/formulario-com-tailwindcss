@@ -8,9 +8,12 @@
         <Formulario class="lg:ml-auto" />
       </div>
     </div>
-    <footer class="bg-gray-800 flex p-4 mb-auto justify-center items-center">
+    <footer class="bg-gray-800 flex flex-col p-4 mb-auto space-y-1 justify-center items-center">
       <p class="text-white lg:text-xs sm:text-xs font-thin">
         Desenvolvido por <strong>Denis Marques</strong>
+      </p>
+      <p class="text-white lg:text-xs sm:text-xs font-thin">
+       Desenvolvido apenas para estudo - (Formulário sem interação)
       </p>
     </footer>
   </div>
