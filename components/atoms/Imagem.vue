@@ -1,7 +1,7 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <template>
     <div class="imagem">
-       <img class="rounded-2xl w-full" src="@/assets/imagens/image.svg" alt="Foto">
+       <img class="lg:rounded-xl lg:w-96 sm:w-full sm:rounded-xl" src="@/assets/imagens/image.svg" alt="Foto">
     </div>
 </template>
 

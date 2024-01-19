@@ -1,5 +1,5 @@
 <template>
-    <Formulario />
+    <HomeTemplate />
 </template>
 
 <script>
