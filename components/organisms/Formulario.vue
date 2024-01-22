@@ -1,6 +1,6 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <template>
-  <div class="formulario lx:w-4/5 lg:w-80 md:w-80">
+  <div class="formulario lx:w-4/5 lg:w-80 md:w-full">
     <BemVindo />
     <p class="text-white text-gray-400 lg:text-xs sm:text-xs lg:mb-4 md:mb-2">
       O DM System fornece os blocos e componentes necessários para criar um
